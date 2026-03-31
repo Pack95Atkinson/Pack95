@@ -1,4 +1,4 @@
-# robots.txt for Pack 57 website
+# robots.txt for Pack 95 website
 # Allow all search engines to crawl the site
 
 User-agent: *

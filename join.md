@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Join Pack 57
+title: Join Pack 95
 subtitle: Begin Your Scouting Adventure
 ---
 <div class="max-w-3xl mx-auto mt-8">
@@ -41,7 +41,7 @@ subtitle: Begin Your Scouting Adventure
     <div class="max-w-3xl mx-auto">
         <div class="overflow-hidden bg-white rounded-lg shadow-md">
             <div class="px-6 py-8">
-                <h2 class="mt-0 mb-6 text-2xl font-bold text-cub-blue">How to Join Pack 57</h2>
+                <h2 class="mt-0 mb-6 text-2xl font-bold text-cub-blue">How to Join Pack 95</h2>
 
                 <div class="space-y-8">
                     <div class="grid grid-cols-[auto_1fr] gap-x-4">
@@ -135,7 +135,7 @@ subtitle: Begin Your Scouting Adventure
                     <div>
                         <h3 class="text-lg font-medium text-cub-blue">🐾 Pack Dues</h3>
                         <p class="mt-2 text-gray-600">
-                            Pack 57 collects modest dues of <b>$180</b> (2025) to cover the costs of awards, the handbook, recognition items, craft supplies, renting our space,
+                            Pack 95 collects modest dues of <b>$180</b> (2025) to cover the costs of awards, the handbook, recognition items, craft supplies, renting our space,
                             and special events. Our pack committee, made up of parents just like you, establishes these dues
                             to keep the program affordable while providing quality experiences.
                         </p>
@@ -144,7 +144,7 @@ subtitle: Begin Your Scouting Adventure
                     <div>
                         <h3 class="text-lg font-medium text-cub-blue">👕 Uniform and Handbook</h3>
                         <p class="mt-2 text-gray-600">
-                            Each grade level has a specific uniform (approximately $40-$75) and handbook. Pack 57 provides the handbook but not the uniform out of your dues.
+                            Each grade level has a specific uniform (approximately $40-$75) and handbook. Pack 95 provides the handbook but not the uniform out of your dues.
                             We also have a uniform bank of lightly used uniforms - if you are interested please <a class="text-blue-600 hover:underline" href="/contact">contact</a> us.
                             The handbook contains all required and elective adventures for each rank and serves as your
                             Scout's record of achievement. Uniforms create a sense of belonging, equality and unity within the pack.

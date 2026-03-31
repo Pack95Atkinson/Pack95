@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pack 57 Calendar
+title: Pack 95 Calendar
 permalink: /calendar/
 navbarText: Palo Alto, CA
 ---

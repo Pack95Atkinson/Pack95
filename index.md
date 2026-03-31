@@ -18,7 +18,7 @@ navbarText: Palo Alto, CA
       Adventure Begins Here
     </h1>
     <p class="max-w-2xl mx-auto mt-4 text-lg sm:text-xl">
-      Join <span class="font-semibold">Pack 57</span> — where every child explores, belongs, and leads.
+      Join <span class="font-semibold">Pack 95</span> — where every child explores, belongs, and leads.
     </p>
     <div class="flex flex-wrap justify-center gap-4 mt-8">
       <a href="/join" class="inline-flex items-center px-6 py-3 font-bold transition bg-yellow-400 rounded-xl text-slate-900 hover:bg-yellow-300">
@@ -154,7 +154,7 @@ navbarText: Palo Alto, CA
     <div>
       <h2 class="text-3xl font-extrabold tracking-wide uppercase sm:text-4xl text-cub-blue">Why Cub Scouting?</h2>
       <p class="mt-4 text-lg leading-7">
-        Scouting America welcomes every family to discover outdoor adventure, community, and character. In Pack 57,
+        Scouting America welcomes every family to discover outdoor adventure, community, and character. In Pack 95,
         kids build confidence and leadership through hands-on experiences — and have a blast doing it.
       </p>
       <ul class="mt-6 space-y-3">
@@ -165,7 +165,7 @@ navbarText: Palo Alto, CA
       </ul>
       <div class="mt-6">
         <a href="/about" class="inline-flex items-center px-5 py-3 font-semibold text-white transition rounded-lg bg-slate-900 hover:bg-slate-800">
-          Learn About Pack 57
+          Learn About Pack 95
         </a>
       </div>
     </div>
@@ -290,7 +290,7 @@ navbarText: Palo Alto, CA
     </div>
     <div class="mt-8 text-center">
       <a href="/join" class="inline-flex items-center px-6 py-3 font-bold transition bg-yellow-400 rounded-xl text-cub-blue hover:bg-yellow-300">
-        Join Pack 57
+        Join Pack 95
       </a>
     </div>
   </div>
@@ -301,7 +301,7 @@ navbarText: Palo Alto, CA
   <h2 class="text-3xl font-extrabold tracking-wide text-center uppercase sm:text-4xl text-cub-blue">Families Love It</h2>
   <div class="grid gap-6 mt-10 md:grid-cols-2">
     <figure class="p-6 bg-white rounded-2xl ring-1 ring-slate-200">
-      <blockquote class="text-lg">“My child has grown in confidence and kindness. Pack 57 feels like family.”</blockquote>
+      <blockquote class="text-lg">“My child has grown in confidence and kindness. Pack 95 feels like family.”</blockquote>
       <figcaption class="mt-4 text-sm text-slate-600">— Parent, J.D.</figcaption>
     </figure>
     <figure class="p-6 bg-white rounded-2xl ring-1 ring-slate-200">
@@ -317,7 +317,7 @@ navbarText: Palo Alto, CA
   <p class="mt-3">New to Scouting? We’ll help you get started. Everyone’s welcome.</p>
   <div class="mt-6">
     <a href="/join" class="inline-flex items-center px-6 py-3 font-bold transition bg-yellow-400 rounded-xl text-cub-blue hover:bg-yellow-300">
-      Join Pack 57
+      Join Pack 95
     </a>
   </div>
 </section>
