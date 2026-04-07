@@ -2,7 +2,7 @@
 layout: default
 title: Pack 95 Calendar
 permalink: /calendar/
-navbarText: Palo Alto, CA
+navbarText: Atkinson, NH
 ---
 
 

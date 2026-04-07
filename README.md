@@ -1,6 +1,6 @@
 # Pack 95 Website
 
-A Jekyll-based website for Cub Scout Pack 95 in Palo Alto, CA.
+A Jekyll-based website for Cub Scout Pack 95 in Atkinson, NH.
 
 ## Overview
 
