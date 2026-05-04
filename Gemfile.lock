@@ -20,7 +20,7 @@ GEM
     bigdecimal (3.3.1)
     colorator (1.1.0)
     concurrent-ruby (1.3.6)
-    connection_pool (3.0.2)
+    connection_pool (2.4.1)
     csv (3.3.5)
     declarative (0.0.20)
     drb (2.2.3)
@@ -253,6 +253,7 @@ PLATFORMS
 DEPENDENCIES
   base64 (~> 0.3.0)
   bigdecimal (~> 3.2)
+  connection_pool (~> 2.4.1)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.0)
   jekyll-feed (~> 0.6)
