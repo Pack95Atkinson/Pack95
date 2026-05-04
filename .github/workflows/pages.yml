@@ -36,13 +36,12 @@ jobs:
 
       # Write the calendar key into the Jekyll source directory
       - name: Write gcalendar-key.json
-        shell: bash
-        run: |
-          mkdir -p "$JEKYLL_SRC"
-          # preserve newlines/quotes exactly
-          cat > "$JEKYLL_SRC/gcalendar-key.json" <<'JSON'
-          ${{ secrets.GCALENDAR_KEY_JSON }}
-          JSON
+  shell: bash
+  run: |
+    mkdir -p "$JEKYLL_SRC"
+    cat > "$JEKYLL_SRC/gcalendar-key.json" <<JSON
+${{ secrets.GCALENDAR_KEY_JSON }}
+JSON
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
