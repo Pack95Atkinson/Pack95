@@ -40,14 +40,14 @@ jobs:
   run: |
     mkdir -p "$JEKYLL_SRC"
     cat > "$JEKYLL_SRC/gcalendar-key.json" <<JSON
-${{ secrets.GCALENDAR_KEY_JSON }}
-JSON
+    ${{ secrets.GCALENDAR_KEY_JSON }}
+    JSON
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-          ruby-version: '3.2'    # pick a version compatible with your gems
+          ruby-version: '3.4'    # pick a version compatible with your gems
 
       - name: Install dependencies
         run: bundle install --without development
