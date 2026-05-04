@@ -48,3 +48,5 @@ gem "bigdecimal", "~> 3.2"
 gem "webrick", "~> 1.9"
 
 gem 'connection_pool', '~> 2.4.1'
+
+gem "minitest", "< 6"
