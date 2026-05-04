@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Cub Scout Pack 95 of Atkinson, New Hampshire. We provide fun, character-building adventures
   for K-5th grade youth through outdoor activities, STEM projects, and community service.
   Join us for camping, Pinewood Derby races, and much more!
-baseurl: "/gh-pages"
-url: "https://pack95atkinson.github.io/Pack95/" 
+baseurl: "/Pack95"
+url: "https://pack95atkinson.github.io" 
 twitter_username: jekyllrb
 github_username:  jekyll
 
