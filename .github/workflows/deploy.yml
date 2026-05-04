@@ -1,17 +1,17 @@
 name: Build and Deploy Tailwind
 on:
   push:
-    branches: [main] # or your default branch
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: [actions/checkout@v4](https://github.com)
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: [actions/setup-node@v4](https://github.com)
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
 
@@ -19,13 +19,12 @@ jobs:
         run: npm install -D tailwindcss @tailwindcss/cli
 
       - name: Build CSS
-        # This replaces your placeholder with the real styles
         run: npx @tailwindcss/cli -i ./src/input.css -o ./__site/assets/css/styles.css --minify
 
       - name: Upload artifact
-        uses: [actions/upload-pages-artifact@v3](https://github.com)
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: './__site' # The folder containing your final site
+          path: './__site'
 
   deploy:
     needs: build
@@ -37,4 +36,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
-        uses: [actions/deploy-pages@v4](https://github.com)
+        uses: actions/deploy-pages@v4
